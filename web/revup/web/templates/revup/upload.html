@@ -1,0 +1,75 @@
+{% extends "revup/base.html" %}
+{% load static %}
+
+{% block content %}
+<div class="row">
+	<div class="col-md-8 col-md-offset-2 text-center">
+		<h2>RevUP</h2>
+		<h4>Upload text, Get Questions!</h4>
+	</div>
+</div>
+<!-- Upload form. Note enctype attribute! -->
+<div class="row">
+	<div class="col-xs-12 col-sm-10 col-md-8 col-sm-offset-1 col-md-offset-2">
+		<form id="fileform" class="form" role="form" action="{% url 'upload' %}" method="post" enctype="multipart/form-data">
+			{% csrf_token %}
+			<p>{{ form.non_field_errors }}</p>
+			{{ form.docMethod }}
+			<div class="form-group">
+				<label for="docTitle">Title</label>
+				{{ form.docTitle }}
+			</div>
+
+			<div class="well yellow">
+				<ul class="nav nav-tabs nav-justified" role="tablist">
+					<li class="{% if form.docMethod.value == 'pastePanel' %} active {% endif %}">
+						<a class="methodTab" href="#pastePanel" aria-controls="pastePanel" data-toggle="tab">
+							<h5>Paste</h5>
+						</a>
+					</li>
+					<li class="{% if form.docMethod.value == 'filePanel'  %} active {% endif %}">
+						<a class="methodTab" href="#filePanel" aria-controls="filePanel" data-toggle="tab">
+							<h5>File Upload</h5>
+						</a>
+					</li>
+				</ul>
+				<div class="tab-content">
+					<div class="tab-pane {% if form.docMethod.value == 'pastePanel' %} active {% endif %}"
+						 id="pastePanel">
+						<div class = "row">
+							<div class="col-xs-12 col-sm-8 col-md-8 col-md-offset-2 col-sm-offset-2">
+								{{ form.docText.errors }}
+								{{ form.docText }}
+							</div>
+						</div>
+						<div class = "row">
+							<div class="col-xs-12 col-sm-8 col-md-8 col-md-offset-2 col-sm-offset-2">
+								<input class="btn btn-lg btn-primary btn-block" type="submit" value="Submit">
+							</div>
+						</div>
+					</div>
+					<div class="tab-pane {% if form.docMethod.value == 'filePanel'  %} active {% endif %}"
+						 id="filePanel">
+						{{ form.docFile.errors }}
+						{{ form.docFile }}
+					</div>
+				</div>
+			</div>
+		</form>
+	</div>
+</div>
+{% endblock %}
+
+{% block extra_css %}
+<link href="{% static 'css/fileinput.min.css' %}" media="all" rel="stylesheet" type="text/css" />
+{% endblock %}
+
+{% block extra_scripts %}
+<script src="{% static 'js/fileinput.min.js' %} " type="text/javascript"></script>
+<script type="application/javascript"> 
+			$(".methodTab").on('shown.bs.tab',function(e) { 
+				$("#submissionType").val($(e.target).attr("aria-controls")); 
+			}); 
+ 
+</script>
+{% endblock %}

@@ -1,0 +1,24 @@
+{% extends "revup/base.html" %}
+
+{% block content %}
+<div class="row">
+	<h2>Documents</h2>
+
+	<table class="table table-hover table-striped" style="background: white;">
+		<thead>
+			<td>ID</td>
+			<td>Title</td>
+			<td>Last Modified</td>
+			<td>Date Created</td>
+		</thead>
+	{% for doc in documents %}
+		<tr>
+			<td>{{ doc.id }}</td>
+			<td><a href="/document/{{doc.id}}">{{ doc.title|default:"(Untitled)" }}</a></td>
+			<td>{{ doc.modified_time }}</td>
+			<td>{{ doc.created_time }}</td>
+		</tr>
+	{% endfor %}
+	</table>
+</div>
+{% endblock %}

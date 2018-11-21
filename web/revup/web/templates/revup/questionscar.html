@@ -1,0 +1,25 @@
+{% extends "revup/base.html" %}
+{% load static %}
+
+{% block title %}
+Questions
+{% endblock %}
+
+{% block content %}
+<div class="row mt centered">
+    <div id="qncarousel" class="owl-carousel">
+    </div>
+</div>
+{% endblock %}
+
+{% block extra_css %}
+<link rel="stylesheet" href="{% static 'css/owl.carousel.css' %}?v=00001">
+<link rel="stylesheet" href="{% static 'css/owl.theme.css' %}?v=00001">
+{% endblock %}
+
+{% block extra_scripts %}
+<input id="docjsonUrl" type="hidden" value="{% url 'docjson' doc.id %}">
+<script src="{% static 'js/underscore-min.js' %}"></script>
+<script src="{% static 'js/owl.carousel.js' %}?v=00001"></script>
+<script src="{% static 'js/document.js' %}?v=00002"></script>
+{% endblock %}

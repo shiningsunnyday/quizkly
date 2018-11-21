@@ -1,0 +1,53 @@
+{% extends "revup/base.html" %}
+
+{% block content %}
+<div class="row">
+    <div class="col-xs-12 col-sm-8 col-md-6 col-sm-offset-2 col-md-offset-3">
+        <form role="form" action="{% url 'user_login' %}" method="post" enctype="multipart/form-data">
+            {% csrf_token %}
+            <fieldset>
+                <div class="well yellow">
+                    <div class="row">
+                        <div class="col-xs-12 col-sm-8 col-md-8 col-md-offset-2 col-sm-offset-2">
+                            <h3 class = "text-center text-blue">Get Started!</h3>
+                            <hr class="colorgraph">
+                            <input type="email" name="email" id="email" class="form-control input-lg"
+                            placeholder="Email Address" required>
+                        </div>
+                    </div>
+                    <br>
+                    <div class="row">
+                        <div class="col-xs-12 col-sm-8 col-md-8 col-md-offset-2 col-sm-offset-2">
+                            <input type="password" name="password" id="password"
+                            class="form-control input-lg" placeholder="Password" required>
+                            <hr class="colorgraph">
+                        </div>
+                    </div>
+                    {% if wrong_user_pass %}
+                    <br>
+                    <div class="alert alert-danger" role="alert">
+                        <span class="glyphicon glyphicon-exclamation-sign" aria-hidden="true"></span>
+                        <span class="sr-only">Error:</span>
+                        Wrong username or password. Please try again.
+                    </div>
+                    {% endif %}
+                    <div class="row">
+                        <div class="col-xs-12 col-sm-8 col-md-8 col-md-offset-2 col-sm-offset-2">
+                            <input type="submit" class="btn btn-lg btn-primary btn-block" value="Log In">
+                        </div>
+                        <!--<div class="col-xs-6 col-sm-6 col-md-6">
+                            <a href="/signup/" class="btn btn-lg btn-primary btn-block">Register</a>
+                        </div> -->
+                    </div>
+                    <div class = "row">
+                        <div class="col-xs-8 col-sm-8 col-md-8 col-md-offset-2 col-xs-offset-2 col-sm-offset-2 text-center">
+                            <a class="login-link text-center" href="/signup/">Don't have an account? Sign up now!</a>
+                        </div>
+                    </div>
+                </div>
+            </fieldset>
+        </form>
+    </div>
+</div>
+{% endblock %}
+

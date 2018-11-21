@@ -1,0 +1,36 @@
+{% extends "revup/base.html" %}
+{% load static %}
+
+{% block title %}
+Questions
+{% endblock %}
+
+{% block extra_css %}
+<style>
+.ans-btn {
+	transition: all .3s ease;
+}
+.slide-fade-enter {
+	transform: translateY(-10px);
+	opacity: 0;
+}
+.slide-fade-enter-active {
+	transition: all .5s ease;
+}
+</style>
+{% endblock %}
+
+{% block content %}
+<div class="row">
+	<h1 class="col-md-offset-2">Questions</h1>
+	<div class="col-md-8 col-md-offset-2">
+		<rev-doc :doc="doc"></rev-qnlist>
+	</div>
+</div>
+{% endblock %}
+
+{% block extra_scripts %}
+{# <input id="docjsonUrl" type="hidden" value="{% url 'docjson' doc.id %}"> #}
+<script src="{% static 'js/doc-components.js' %}"></script>
+<script src="{% static 'js/doc.js' %}"></script>
+{% endblock %}

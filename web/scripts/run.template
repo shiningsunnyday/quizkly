@@ -1,0 +1,16 @@
+#!/bin/bash
+
+# quick hack, cd to project root if pwd is script dir
+if [ "$(dirname $0)" == "." ]; then
+	cd ..
+fi
+
+# path to models dir
+export REVUP_MODELS=/models 
+# settings module (see settings/dir)
+export DJANGO_SETTINGS_MODULE=settings.dev
+# path to data dir (db and uploaded files)
+export BASE_DIR=/data
+# Set to 1 to enable lorem ipsum generator
+export REVUP_FAKE_GEN_USE=0
+$@

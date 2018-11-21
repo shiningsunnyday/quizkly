@@ -1,0 +1,7 @@
+Django
+celery
+redis
+librabbitmq
+djangorestframework
+nltk
+futures; python_version < '3.0'

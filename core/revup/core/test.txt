@@ -1,0 +1,279 @@
+Deoxyribonucleic acid (Listeni/diˈɒksiˌraɪboʊnjʊˌkliːɪk, -ˌkleɪɪk/;[1] DNA) is a molecule that carries the genetic instructions used in the growth, development, functioning and reproduction of all known living organisms and many viruses. DNA and RNA are nucleic acids; alongside proteins and complex carbohydrates (polysaccharides), they are one of the three major types of macromolecule that are essential for all known forms of life. Most DNA molecules consist of two biopolymer strands coiled around each other to form a double helix.
+The two DNA strands are known as polynucleotides since they are composed of simpler units called nucleotides.[2][3] Each nucleotide is composed of a nitrogen-containing nucleobase—either cytosine (C), guanine (G), adenine (A), or thymine (T)—as well as a sugar called deoxyribose and a phosphate group. The nucleotides are joined to one another in a chain by covalent bonds between the sugar of one nucleotide and the phosphate of the next, resulting in an alternating sugar-phosphate backbone. According to base pairing rules (A with T, and C with G), hydrogen bonds bind the nitrogenous bases of the two separate polynucleotide strands to make double-stranded DNA. The total amount of related DNA base pairs on Earth is estimated at 5.0 x 1037, and weighs 50 billion tonnes.[4] In comparison, the total mass of the biosphere has been estimated to be as much as 4 TtC (trillion tons of carbon).[5]
+DNA stores biological information. The DNA backbone is resistant to cleavage, and both strands of the double-stranded structure store the same biological information. Biological information is replicated as the two strands are separated. A significant portion of DNA (more than 98% for humans) is non-coding, meaning that these sections do not serve as patterns for protein sequences.
+The two strands of DNA run in opposite directions to each other and are therefore anti-parallel. Attached to each sugar is one of four types of nucleobases (informally, bases). It is the sequence of these four nucleobases along the backbone that encodes biological information. Under the genetic code, RNA strands are translated to specify the sequence of amino acids within proteins. These RNA strands are initially created using DNA strands as a template in a process called transcription.
+Within eukaryotic cells, DNA is organized into long structures called chromosomes. During cell division these chromosomes are duplicated in the process of DNA replication, providing each cell its own complete set of chromosomes. Eukaryotic organisms (animals, plants, fungi, and protists) store most of their DNA inside the cell nucleus and some of their DNA in organelles, such as mitochondria or chloroplasts.[6] In contrast, prokaryotes (bacteria and archaea) store their DNA only in the cytoplasm. Within the eukaryotic chromosomes, chromatin proteins such as histones compact and organize DNA. These compact structures guide the interactions between DNA and other proteins, helping control which parts of the DNA are transcribed.
+DNA was first isolated by Friedrich Miescher in 1869. Its molecular structure was identified by James Watson and Francis Crick in 1953, whose model-building efforts were guided by X-ray diffraction data acquired by Rosalind Franklin. DNA is used by researchers as a molecular tool to explore physical laws and theories, such as the ergodic theorem and the theory of elasticity. The unique material properties of DNA have made it an attractive molecule for material scientists and engineers interested in micro- and nano-fabrication. Among notable advances in this field are DNA origami and DNA-based hybrid materials.[7]
+Human Circulatory System
+
+The human circulatory system functions to transport blood and oxygen from the lungs to the various tissues of the body. The heart pumps the blood throughout the body. The lymphatic system is an extension of the human circulatory system that includes cell-mediated and antibody-mediated immune systems. The components of the human circulatory system include the heart, blood, red and white blood cells, platelets, and the lymphatic system.
+
+Heart
+
+The human heart is about the size of a clenched fist. It contains four chambers: two atria and two ventricles. Oxygen-poor blood enters the right atrium through a major vein called the vena cava. The blood passes through the tricuspid valve into the right ventricle. Next, the blood is pumped through the pulmonary artery to the lungs for gas exchange. Oxygen-rich blood returns to the left atrium via the pulmonary vein. The oxygen-rich blood flows through the bicuspid (mitral) valve into the left ventricle, from which it is pumped through a major artery, the aorta. Two valves called semilunar valves are found in the pulmonary artery and aorta.
+
+The ventricles contract about 70 times per minute, which represents a person’s pulse rate. Blood pressure, in contrast, is the pressure exerted against the walls of the arteries. Blood pressure is measured by noting the height to which a column of mercury can be pushed by the blood pressing against the arterial walls. A normal blood pressure is a height of 120 millimeters of mercury during heart contraction (systole) and a height of 80 millimeters of mercury during heart relaxation (diastole). Normal blood pressure is usually expressed as “120 over 80.”
+
+Coronary arteries supply the heart muscle with blood. The heart is controlled by nerves that originate on the right side in the upper region of the atrium at the sinoatrial node. This node is called the pacemaker. It generates nerve impulses that spread to the atrioventricular node, where the impulses are amplified and spread to other regions of the heart by nerves called Purkinje fibers.
+
+Blood
+
+Blood is the medium of transport in the body. The fluid portion of the blood, the plasma, is a straw-colored liquid composed primarily of water. All the important nutrients, the hormones, and the clotting proteins, as well as the waste products, are transported in the plasma. Red blood cells and white blood cells are also suspended in the plasma. Plasma from which the clotting proteins have been removed is called serum.
+
+Red blood cells
+
+Red blood cells are also called erythrocytes. These are disk-shaped cells produced in the bone marrow. Red blood cells have no nucleus, and their cytoplasm is filled with hemoglobin.
+
+Hemoglobin is a red-pigmented protein that binds loosely to oxygen atoms and carbon dioxide molecules. It is the mechanism of transport of these substances. (Much carbon dioxide is also transported as bicarbonate ions.) Hemoglobin also binds to carbon monoxide. Unfortunately, this binding is irreversible, so it often leads to carbon monoxide poisoning.
+
+A red blood cell circulates for about 120 days and is then destroyed in the spleen, an organ located near the stomach and composed primarily of lymph node tissue. When the red blood cell is destroyed, its iron component is preserved for reuse in the liver. The remainder of the hemoglobin converts to bilirubin. This amber substance is the chief pigment in human bile, which is produced in the liver.
+
+Red blood cells commonly have immune-stimulating polysaccharides called antigens on the surface of their cells. Individuals having the A antigen have blood type A (as well as anti-B antibodies); individuals having the B antigen have blood type B (as well as anti-A antibodies); individuals having the A and B antigens have blood type AB (but no anti-A or anti-B antibodies); and individuals having no antigens have blood type O (as well as anti-A and anti-B antibodies).
+
+White blood cells
+
+White blood cells are referred to as leukocytes. They are generally larger than red blood cells and have clearly defined nuclei. They are also produced in the bone marrow and have various functions in the body. Certain white blood cells called lymphocytes are essential components of the immune system (discussed later in this chapter). Other cells called neutrophils and monocytes function primarily as phagocytes; that is, they attack and engulf invading microorganisms. About 30 percent of the white blood cells are lymphocytes, about 60 percent are neutrophils, and about 8 percent are monocytes. The remaining white blood cells are eosinophils and basophils. Their functions are uncertain; however, basophils are believed to function in allergic responses.
+
+Platelets
+
+Platelets are small disk-shaped blood fragments produced in the bone marrow. They lack nuclei and are much smaller than erythrocytes. Also known technically as thrombocytes, they serve as the starting material for blood clotting. The platelets adhere to damaged blood vessel walls, and thromboplastin is liberated from the injured tissue. Thromboplastin, in turn, activates other clotting factors in the blood. Along with calcium ions and other factors, thromboplastin converts the blood protein prothrombin into thrombin. Thrombin then catalyzes the conversion of its blood protein fibrinogen into a protein called fibrin, which forms a patchwork mesh at the injury site. As blood cells are trapped in the mesh, a blood clot forms.
+
+Lymphatic system
+
+The lymphatic system is an extension of the circulatory system consisting of a fluid known as lymph, capillaries called lymphatic vessels, and structures called lymph nodes. Lymph is a watery fluid derived from plasma that has seeped out of the blood system capillaries and mingled with the cells. Instead of returning to the heart through the blood veins, this lymph enters a series of one-way lymphatic vessels that return the fluid to the circulatory system. Along the way, the ducts pass through hundreds of tiny, capsulelike bodies called lymph nodes. Located in the neck, armpits, and groin, the lymph nodes contain cells that filter the lymph and phagocytize foreign particles.
+
+The spleen is composed primarily of lymph node tissue. Lying close to the stomach, the spleen is also the site where red blood cells are destroyed. The spleen serves as a reserve blood supply for the body.
+
+The lymph nodes are also the primary sites of the white blood cells called lymphocytes. The body has two kinds of lymphocytes: B-lymphocytes and T-lymphocytes. Both of these cells can be stimulated by microorganisms or other foreign materials in the blood. These antigens are picked up by phagocytes and lymph and delivered to the lymph nodes. Here, the lymphocytes are stimulated through a process called the immune response.
+
+Certain antigens, primarily those of fungi and protozoa, stimulate the T-lymphocytes. After stimulation, these lymphocytes leave the lymph nodes, enter the circulation, and proceed to the site where the antigens of microorganisms were detected. The T-lymphocytes interact with the microorganisms cell to cell and destroy them. This process is called cell-mediated immunity.
+
+B-lymphocytes are stimulated primarily by bacteria, viruses, and dissolved materials. On stimulation, the B-lymphocytes revert to large antibody-producing cells called plasma cells. The plasma cells synthesize proteins called antibodies, which are released into the circulation. The antibodies flow to the antigen site and destroy the microorganisms by chemically reacting with them in a highly specific manner. The reaction encourages phagocytosis, neutralizes many microbial toxins, eliminates the ability of microorganisms to move, and causes them to bind together in large masses. This process is called antibody-mediated immunity. After the microorganisms have been removed, the antibodies remain in the bloodstream and provide lifelong protection to the body. Thus, the body becomes immune to specific disease microorganisms.
+Introduction to Cellular Respiration
+
+Some organisms, such as plants, can trap the energy in sunlight through photosynthesis (see Chapter 5) and store it in the chemical bonds of carbohydrate molecules. The principal carbohydrate formed through photosynthesis is glucose. Other types of organisms, such as animals, fungi, many protozoa, and a large portion of bacteria, are unable to perform this process. Therefore, these organisms must rely on the carbohydrates formed in plants to obtain the energy necessary for their metabolic processes.
+
+Animals and other organisms obtain the energy available in carbohydrates through the process of cellular respiration. Cells take the carbohydrates into their cytoplasm, and through a complex series of metabolic processes, they break down the carbohydrates and release the energy. The energy is generally not needed immediately; rather, it is used to combine adenosine diphosphate (ADP) with phosphate ions to form adenosine triphosphate (ATP) molecules. The ATP can then be used for processes in the cells that require energy, much as a battery powers a mechanical device.
+
+During the process of cellular respiration, carbon dioxide is given off. This carbon dioxide can be used by plant cells during photosynthesis to form new carbohydrates. Also in the process of cellular respiration, oxygen gas is required to serve as an acceptor of electrons. This oxygen is identical to the oxygen gas given off during photosynthesis. Thus, there is an interrelationship between the processes of photosynthesis and cellular respiration, namely the entrapment of energy available in sunlight and the provision of the energy for cellular processes in the form of ATP.
+
+The overall mechanism of cellular respiration involves four processes: glycolysis, in which glucose molecules are broken down to form pyruvic acid molecules; the Krebs cycle, in which pyruvic acid is further broken down and the energy in its molecule is used to form high-energy compounds, such as nicotinamide adenine dinucleotide (NADH); the electron transport system, in which electrons are transported along a series of coenzymes and cytochromes and the energy in the electrons is released; and chemiosmosis, in which the energy given off by electrons pumps protons across a membrane and provides the energy for ATP synthesis. The general chemical equation for cellular respiration is:
+
+C6H12O6 + 6 O2 → 6 H2O + 6CO2 + energy
+
+Figure 6-1 provides an overview of cellular respiration. Glucose is converted to pyruvic acid in the cytoplasm, which is then used to produce acetyl CoA in the mitochondrion. Finally, the Krebs cycle proceeds in the mitochondrion. Electron transport and chemiosmosis result in energy release; ATP synthesis also occurs in the mitochondrion.
+Glycolysis
+
+Glycolysis is the process in which one glucose molecule is broken down to form two molecules of pyruvic acid (also called pyruvate). The glycolysis process is a multi-step metabolic pathway that occurs in the cytoplasm of animal cells, plant cells, and the cells of microorganisms. At least six enzymes operate in the metabolic pathway.
+
+In the first and third steps of the pathway, ATP energizes the molecules. Thus, two ATP molecules must be expended in the process. Further along in the process, the six-carbon glucose molecule converts into intermediary compounds and is then split into two three-carbon compounds. The latter undergo additional conversions and eventually form pyruvic acid at the conclusion of the process.
+
+During the latter stages of glycolysis, four ATP molecules are synthesized using the energy given off during the chemical reactions. Thus, four ATP molecules are synthesized and two ATP molecules are used during glycolysis, for a net gain of two ATP molecules.
+
+
+
+Figure 6-1     An overview of cellular respiration.
+
+Another reaction during glycolysis yields enough energy to convert NAD to NADH (plus a hydrogen ion). The reduced coenzyme (NADH) will later be used in the electron transport system, and its energy will be released. During glycolysis, two NADH molecules are produced.
+
+Because glycolysis does not require oxygen, the process is considered to be anaerobic. For certain anaerobic organisms, such as some bacteria and fermentation yeasts, glycolysis is the sole source of energy.
+
+Glycolysis is a somewhat inefficient process because much of the cellular energy remains in the two molecules of pyruvic acid that are created. Interestingly, this process is somewhat similar to a reversal of photosynthesis (see Chapter 5).
+
+Excretory Systems
+
+The excretion process is concerned with the removal of waste products from the animal body. The relatively stable internal environment of the organism is dependent upon the process of excretion, a concept known as homeostasis. Homeostasis means “staying the same.” It refers to a steady-state equilibrium that exists internally in a healthy organism or cells, despite changes in the external environment. The excretory system plays a major role in homeostasis.
+
+Because one-celled organisms are in constant contact with their environment, they do not need excretory organs. However, multicellular organisms need a mechanism to carry waste products from cells to the external environment. Flatworms, such as planaria, have a series of excretory cells called flame cells. Flame cells contain cilia that direct water and metabolic wastes to enter the cells and pass into excretory canals. The excretory canals join with other canals to form excretory tubules. Fluid from the excretory tubules leaves the body through pores.
+
+In earthworms, members of the phylum Annelida, the excretory system consists of structural units called nephridia (the singular is nephridium). Each nephridium contains a ciliated tunnel that leads to a long, coiled tubule, which leads to a bladderlike sac (a primitive bladder). Fluid moves from the internal environment into the funnel. As fluid passes through the tubule, cells in the tubular lining absorb useful compounds such as glucose, amino acids, and salts. The remaining materials constitute metabolic waste, and they are passed into the bladderlike sac. The sac later opens through a pore in the earthworm’s skin, from which the waste products are discharged.
+
+Insects have a series of tubules for excretion called Malpighian tubules. Fluid enters at the upper end of the tubules and passes down their entire length. The cells in the tubular walls reabsorb precise amounts of water, salts, and other materials to maintain a delicate balance within the insect tissues. The tubules eventually lead to an insect’s intestine, where waste products are removed.
+
+Mechanisms of Evolution
+
+Populations evolve, but individual organisms do not. A population is an interbreeding group of individuals of one species in a given geographic area at the same time. A population evolves because the population contains the collection of genes called the gene pool. As changes in the gene pool occur, a population evolves.
+
+Mutation
+
+Mutation, a driving force of evolution, is a random change in an organism’s genetic makeup, which influences the population’s gene pool. It is a change in the nature of the DNA in one or more chromosomes. Mutations give rise to new alleles; therefore, they are a source of genetic variation in a population.
+
+Mutations may be harmful or benign, but they may also be beneficial. For example, a mutation may permit organisms in a population to produce enzymes that will allow them to use certain food materials. Over time, these types of individuals survive, while those that don’t have the mutations are more likely to perish. Therefore, natural selection tends to remove the less-fit individuals, allowing more-fit individuals to survive and form a population.
+
+Gene flow
+
+Another mechanism of evolution may occur during the migration of individuals from one group or location to another. When the migrating individuals interbreed with the new population, they contribute their genes to the gene pool of the local population. This establishes gene flow in the population.
+
+Gene flow occurs, for example, when wind carries seeds far beyond the bounds of the parent plant population. As another example, animals may be driven off from a herd. This forces them to migrate to a new population, thereby bringing new genes to a gene pool. Gene flow tends to increase the similarity between remaining populations of the same species because it makes gene pools more similar to one another.
+
+Genetic drift
+
+Another mechanism for evolution is genetic drift, which can occur when a small group of individuals leaves a population and establishes a new one in a geographically isolated region. For example, when a small population of fish is placed in a lake, the fish population will evolve into one that is different from the original. Fitness of a population is not considered in genetic drift, nor does genetic drift occur in a very large population.
+
+Natural selection
+
+Another mechanism for evolution is natural selection, which occurs when populations of organisms are subjected to the environment. The fittest creatures are more likely to survive and pass their genes to their offspring, producing a population that is better adapted to the environment. The genes of less-fit individuals are less likely to be passed on to the next generation. The important selective force in natural selection is the environment.
+
+Environmental fitness may be expressed in several ways. For example, it may involve an individual’s ability to avoid predators, it may imply a greater resistance to disease, it may enhance ability to obtain food, or it may mean resistance to drought. Fitness may also be measured as enhanced reproductive ability, such as the ability to attract a mate. Better-adapted individuals produce relatively more offspring and pass on their genes more successfully than less-adapted individuals.
+
+Several types of natural selection appear to affect populations. One type, stabilizing selection, occurs when the environment selects against organisms of a population with extreme versions of a trait. Another type of natural selection is disruptive selection. Here, the environment favors extreme types in a population at the expense of intermediate forms, thereby splitting the population into two or more subpopulations. A third type of natural selection is directional selection. In this case, the environment selects for an extreme characteristic. The development of antibiotic-resistant bacteria in the modern era is an example of directional selection.
+
+Species development
+
+A species is a group of individuals that share a number of features and are able to interbreed with one another, producing fertile (non-sterile) offspring. (When individuals of one species mate with individuals of a different species, any offspring are usually sterile.) A species is also defined as a population whose members share a common gene pool.
+
+The evolution of a species is speciation, which can occur when a population is isolated by geographic barriers, such as occurred in the isolation of Australia, New Zealand, and the Galapagos Islands. The variety of life forms found in Australia but nowhere else is an example of speciation by geographic barriers.
+
+Speciation can also occur when reproductive barriers develop. For example, when members of a population develop anatomical barriers that make mating with other members of the population difficult, a new species can develop. The timing of sexual activity is another example of a reproductive barrier. Spatial difference, such as one species inhabiting treetops while another species lives at ground level, is another reason why species develop.
+
+Gradual versus rapid change
+
+Darwin’s theory included the observation that evolutionary changes take place slowly. In many cases, the fossil record shows that a species changed gradually over time. The theory that evolution occurs gradually is known as gradualism.
+
+In contrast to gradualism is the theory of punctuated equilibrium, which is a point of discussion among scientists. According to the theory of punctuated equilibrium, some species have long, stable periods of existence interrupted by relatively brief periods of rapid change.
+
+Both groups of scientists agree that natural selection is the single most important factor in evolutionary changes in species. Whether the change is slow and gradual or punctuated and rapid, one thing is certain: Organisms have evolved over time.
+
+The Building Blocks of Nucleic Acids
+
+This guide will focus on the "central dogma" of molecular biology. We will review the processes responsible for replicating the nucleic acid DNA, transcribing DNA into RNA, and translating an RNA sequence into a functional protein. Knowledge of these topics is critical before a more complex understanding of advanced molecular biology topics is possible. Just as importantly, knowledge of these topics is fundamental to understanding what inside our bodies allowed us to grow as humans and why our growth is different from that of other organisms.
+
+
+Figure %: The Central Dogma of Molecular Biology
+DNA is the nucleic acid that is responsible for "programming" many or our traits. As the material that composes our genes, DNA has become one of the most fundamental molecules in molecular biology. In Molecular Genetics, we will address some fundamentally important questions. We will learn how DNA, our genetic material, is copied and passed on from generation to generation. We will also address the issue of how the genetic information encoded into a DNA sequence is used in organisms to express certain proteins, the major constituents of cells. In addressing these major questions, we will also see how these processes are not perfect and look at how organisms protect against mutations that could potentially kill cells.
+
+In this topic section, Structure of Nucleic Acids, we will begin our discussion at a more elementary level, investigating the structure of the nucleic acids DNA and RNA. As DNA and RNA are the major molecules of molecular biology, understanding their structure is critical to understanding the mechanisms of gene replication and protein synthesis. The structural elements of each of these molecules play key roles in their performance of the various processes of the central dogma.
+
+Anti-parallel  -  Refers to the orientations of the two single strands that compose a double-stranded DNA helix. Strands are oriented such that one strand's 5' end is directly across from the other strand's 3' end.
+Complementary  -  Term used to refer to the natural pairing of the nitrogen bases within DNA and RNA. In DNA, cytosine pairs with guanine and adenine with thymine. In RNA, the thymine is replaced with uracil, which pairs with adenine. Each member of these pairs are said to be a "complements" of the other.
+Deoxyribose  -  A five-membered sugar ring that lacks a hydroxyl group at one position, and is the sugar group for DNA.
+Double-stranded helix  -  A common structural motif of DNA. Two linear strands of single-stranded DNA fold into a helical shape stabilized internally by hydrogen bonds between complementary base pairs.
+Ester bond  -  In DNA, refers to the oxygen-carbon linkage between the triphosphate group and the 5' carbon of the ribose sugar group in a single DNA or RNA nucleotide.
+Glycosidic Bond  -  In DNA, refers to the nitrogen-carbon linkage between the 9' nitrogen of purine bases or 1' nitrogen of pyrimidine bases and the 1' carbon of the sugar group.
+Helical Twist  -  The angular rotation needed to get from one nucleotide to another in helical structures.
+Hydrogen Bonding  -  Weak, noncovalent linkages between a donor and an acceptor which, when lined up next to each other, have favorable electrostatic interactions. Provide small amount of stability to DNA and RNA helices. Provide specificity of the interactions between polynucleotide strands.
+Hydrogen Bond Acceptor  -  A group with at least one free lone pair of electrons. In DNA and RNA, common acceptor groups include: carbonyls, hydroxyls, and tertiary amines.
+Hydrogen Bond Donor  -  A group with a free hydrogen group. In DNA and RNA, common donors include secondary amines and hydroxyl groups.
+Major groove  -  In a helix, refers to the larger of the unequal grooves that are formed as a result of the double-helical structure of DNA. As a result of the patterns of hydrogen bonding between complementary bases of DNA, the sugar groups stick out at 120 degree angles from each other instead of 180. The major groove is generated by the larger angular distance between sugars.
+Minor groove  -  In a helix, refers to the smaller of the unequal grooves that are formed as a result of the double-helical structure of DNA. As a result of the patterns of hydrogen bonding between complementary bases of DNA, the sugar groups stick out at 120 degree angles from each other instead of 180. The minor groove is generated by the smaller angular distance between sugars.
+Nitrogen Base  -  One of three components of a nucleotide, nitrogen bases come in two general types: purines and pyrimidines. Of the four nitrogen bases, adenine and guanine are purines, while cytosine and thymine are pyrimidines. Through hydrogen bonding, base pairs link in a complementary nature: adenine with thymine and guanine with cytosine, forming the double-stranded helix of DNA. In RNA, thymine is replaced by uracil.
+Nucleic Acid  -  A chain of nucleotides joined together by phosphodiester bonds. Both DNA and RNA are nucleic acids.
+Nucleotide  -  A five-membered sugar group with a purine or pyrimidine nitrogen base group attached to its 1' carbon via a glycosidic bond and one or more phosphate groups attached to its 5' carbon via an ester bond.
+Phosphate Backbone  -  Refers to the structural organization of the DNA double-helix in which the pyrimidine and purine basic groups face the interior while the phosphate groups line the exterior of the helix. The phosphate backbone carries a negative charge.
+Phosphate Group  -  One of three components of a nucleotide, comprised of a central phosphorous surrounded by four oxygens. The phosphate links to the sugar group, carries a negative charge because of the chemical interaction between phosphorous and oxygen, and forms the exterior of the phosphate backbone.
+Phosphodiester linkage  -  In a polynucleotide, refers to the bond between the 3' hydroxyl of a sugar group in a nucleotide and a phosphate group attached to the 5' carbon of another sugar group.
+Pitch  -  In a helix, refers to the vertical distance traveled in one full turn (360 degrees of twist).
+Primary Structure  -  In DNA and RNA, refers to the linear sequence of base pairs or amino acids in a polynucleotide chain.
+Purine  -  One of two categories of nitrogen base ring compounds found in DNA and RNA. A purine is a nine-membered double ring composed of one five-membered joined to a six membered ring containing four nitrogens. See pyrimidine.
+Pyrimidine  -  One of two categories of nitrogen base ring compounds found in DNA and RNA. A six-membered ring containing two nitrogens. See purine.
+Ribose  -  The sugar group of RNA, a five-membered sugar ring containing one oxygen and four carbons with one additional carbon attached to the 4' carbon in the ring and hydroxyl groups attached to the 1', 2', 3', and 5' carbons. See deoxyribose.
+Right Hand Rule  -  A trick used to quickly determine the "handedness" or orientation of a helix. In a right-handed helix, if one extends his or her right hand and traces with fingers along the backbone of the helix, the hand and thumb move upwards.
+Rise  -  In a helix, the vertical distance traveled when moving from one base pair to the adjacent base pair.
+Secondary Structure  -  In DNA and RNA, the local folding patterns of a polynucleotide based on complementary base-pairing. Common motifs include alpha helices and bet-pleated sheets.
+Sugar Group  -  One of three components of a nucleotide, a five-ringed carbon sugar, either ribose or deoxyribose in form. The sugar group bonds to the nitrogen base and to the phosphate group.
+Tertiary Structure  -  In DNA and RNA, the complex three-dimensional form of a polynucleotide.
+Both DNA and RNA are known as nucleic acids. They have been given this name for the simple reason that they are made up of structures called nucleotides. Those nucleotides, themselves comprising a number of components, bond together to form the double-helix first discovered by the scientists James Watson and Francis Crick in 1956. This discovery won the two scientists the Nobel Prize. For now, when we discuss nucleic acids you should assume we are discussing DNA rather than RNA, unless otherwise specified.
+
+Nucleotides
+
+A nucleotide consists of three things:
+
+A nitrogenous base, which can be either adenine, guanine, cytosine, or thymine (in the case of RNA, thymine is replaced by uracil).
+A five-carbon sugar, called deoxyribose because it is lacking an oxygen group on one of its carbons.
+One or more phosphate groups.
+The nitrogen bases are pyrimidine in structure and form a bond between their 1' nitrogen and the 1' -OH group of the deoxyribose. This type of bond is called a glycosidic bond. The phosphate group forms a bond with the deoxyribose sugar through an ester bond between one of its negatively charged oxygen groups and the 5' -OH of the sugar ().
+
+Figure %: A Nucleotide
+Nucleic Acids
+
+Nucleotides join together through phosphodiester linkages between the 5' and 3' carbon atoms to form nucleic acids. The 3' -OH of the sugar group forms a bond with one of the negatively charged oxygens of the phosphate group attached to the 5' carbon of another sugar. When many of these nucleotide subunits combine, the result is the large single-stranded polynucleotide or nucleic acid, DNA ()
+
+
+Figure %: The Nucleic Acid DNA
+If you look closely, you can see that the two sides of the nucleic acid strand shown above are different, resulting in polarity. At one end of the large molecule, the carbon group is unbound and at the other end, the -OH is unbound. These different ends are called the 5'- and 3'-ends, respectively.
+
+The Helical Structure of DNA
+
+shows a single strand of DNA. However, as stated earlier, DNA exists as a double-helix, meaning two strands of DNA bind together.
+
+
+Figure %: Double-helical DNA
+As seen above, one strand is oriented in the 5' to 3' direction while the complementary strand runs in the 3' to 5' direction. Because the two strands are oppositely oriented, they are said to be anti-parallel to each other. The two strands bond through their nitrogen bases (marked A, C, G, or T for adenine, cytosine, and guanine). Note that adenine only bonds with thymine, and cytosine only bonds with guanine. The nitrogen bases are held together by hydrogen bonds: adenine and thymine form two hydrogen bonds; cytosine and guanine form three hydrogen bonds.
+An important thing to remember about the structure of the DNA helix is that as a result of anti-parallel pairing, the nitrogen base groups face the inside of the helix while the sugar and phosphate groups face outward. The sugar and phosphate groups in the helix therefore make up the phosphate backbone of DNA. The backbone is highly negatively charged as a result of the phosphate groups.
+
+The Importance of the Hydrogen Bond
+
+Hydrogen bonding is essential to the three-dimensional structure of DNA. These bonds do not, however, contribute largely to the stability of the double helix. Hydrogen bonds are very weak interactions and the orientation of the bases must be just right for the interactions to take place. While the large number of hydrogen bonds present in a double helix of DNA leads to a cumulative effect of stability, it is the interactions gained through the stacking of the base pairs that leads to most of the helical stability.
+
+Hydrogen bonding is most important for the specificity of the helix. Since the hydrogen bonds rely on strict patterns of hydrogen bond donors and acceptors, and because these structures must be in just the right spots, hydrogen bonding allows for only complementary strands to come together: A- T, and C-G. This complementary nature allows DNA to carry the information that it does.
+
+Chargaff's Rule
+
+Chargaff's rule states that the molar ratio of A to T and of G to C is almost always approximately equal in a DNA molecule. Chargaff's Rule is true as a result of the strict hydrogen bond forming rules in base pairing. For every G in a double-strand of DNA, there must be an accompanying complementary C, similarly, for each A, there is a complementary paired T.
+
+DNA is a Right-Handed Helix
+
+Each strand of DNA wraps around the other in a right-handed configuration. In other words, the helix spirals upwards to the right. One can test the handedness" of a helix using the right hand rule. If you extend your right hand with thumb pointing up and imagine you are grasping a DNA double helix, as you trace upwards around the helix with your fingers, your hand is moving up. In a left-handed helix, in order to have your hand move upwards with your thumb pointing up, you would need to use your left hand. DNA is always found in the right-handed configuration.
+
+The Major and Minor Grooves
+
+As a result of the double helical nature of DNA, the molecule has two asymmetric grooves. One groove is smaller than the other. This asymmetry is a result of the geometrical configuration of the bonds between the phosphate, sugar, and base groups that forces the base groups to attach at 120 degree angles instead of 180 degrees. The larger groove is called the major groove while the smaller one is called the minor groove.
+
+Since the major and minor grooves expose the edges of the bases, the grooves can be used to tell the base sequence of a specific DNA molecule. The possibility for such recognition is critical, since proteins must be able to recognize specific DNA sequences on which to bind in order for the proper functions of the body and cell to be carried out. As you might expect, the major groove is more information rich than the minor groove. This fact makes the minor groove less ideal for protein binding.
+
+While the leading strand and lagging strand replicate differently, each individual nucleotide added to each strand is attached through the same mechanism. In this section, we will examine the mechanism of nucleotide attachment. Note: classes such as AP Biology do not require you to know the topics covered in this section.
+
+The Building Blocks of DNA Replication are Deoxyribonucleotides
+
+The building blocks added on to a growing daughter strand are individual nucleotides. Remember, in DNA the -OH group at the 2' position of the ribose ring is missing. As a result, the substrates for DNA synthesis are called 2' deoxyribonucleotides.
+
+
+Figure %: 2' Deoxyribonucleoside triphosphate
+Attached to each deoxyribose ring is a base group (C, G, A, or T) and a triphosphate group. The three phosphates are designated alpha, beta, and gamma (alpha being the closest to the ribose ring). These phosphates play key roles in the addition of subsequent nucleotides to the daughter strand.
+Addition Occurs Via a Nucleophilic Attack
+
+Deoxyribonucleoside triphosphates, as we just stated, are the building blocks of DNA. Recall, furthermore, that a complete polynucleotide strand of DNA has only one phosphate group and that through this phosphate group each nucleotide is attached to the next. Why then is the substrate a triphosphate instead of just a monophosphate? The answer to this question lies in the chemistry underlying the addition of nucleotides to a growing daughter strand of DNA.
+
+While each nucleotide added to a growing DNA chain lacks an -OH group at its 2' position, it retains its 3' -OH. This hydroxyl group is used to attack the alpha phosphate group of an incoming nucleoside triphosphate. In the attack, the 3' -OH replaces the beta and gamma phosphates that are ejected from the complex as a pyrophosphate molecule. The result is the formation of the phosphodiester bond between the growing daughter strand and the next nucleotide. The 3' -OH of the newly added nucleotide is now exposed on the end of the growing chain and can attack the next nucleotide in the same way.
+
+
+Figure %: Addition of Nucleotides to a Growing Daughter Strand
+The figure above presents a simplified schematic of a growing polynucleotide chain. The lines represent the ribose sugar with one 3' -OH branching from it. Each p represents a phosphate group. This figure illustrates a number of key points of DNA replication. First, we see that the parent strand is oriented in the 3' to 5' direction. Second, each new nucleotide added to the growing daughter strand is complementary to the nucleotide on the parent strand that is across from it and a bond forms between them. Finally, we see how the 3' -OH group displaces the two outermost phosphate groups of an incoming nucleotide in order to add it to the growing chain.
+
+The Driving Force of the Addition Reaction
+
+Each incoming nucleotide supplies the energy for its addition in the high-energy bond between the beta and gamma phosphates that are ejected upon addition. It is not the release of the pyrophosphate that drives the reaction, but rather the subsequent hydrolysis that takes place. A much larger amount of energy is released when the two phosphates are separated into individual phosphates through the hydrolysis reaction.
+Sugars, which are formed by the plant during photosynthesis, are an essential component of plant nutrition. Like water, sugar (usually in the form of sucrose, though glucose is the original photosynthetic product) is carried throughout the parts of the plant by the vascular system. Phloem, the vascular tissue responsible for transporting organic nutrients around the plant body, carries dissolved sugars from the leaves (their site of production) or storage sites to other parts of the plant that require nutrients. Within the phloem, sugars travel from areas of high osmotic concentration and high water pressure, called sources, to regions of low osmotic concentration and low water pressure, called sinks. (Osmotic concentration refers the concentration of solutes, or sugars in this case; where the concentration of solutes is highest, so is the osmotic concentration).
+
+Sources
+
+The nutrient-rich regions that supply sugars for the rest of the plant are called the sources. Sources include the leaves, where sugar is generated through photosynthesis. When they are high in supplies, the nutrient storage areas, such as the roots and stems, can also function as sources. In the sources, sugar is moved into the phloem by active transport, in which the movement of substances across cell membranes requires energy expenditure on the part of the cell.
+
+Sinks
+
+Sinks are areas in need of nutrients, such as growing tissues. When they are low in supply, storage areas such as the roots and stems cane function as sinks. The contents of the phloem tubes flow from the sources to these sinks, where the sugar molecules are taken out of the phloem by active transport.
+
+Pressure Flow
+
+The mechanism by which sugars are transported through the phloem, from sources to sinks, is called pressure flow. At the sources (usually the leaves), sugar molecules are moved into the sieve elements (phloem cells) through active transport. Water follows the sugar molecules into the sieve elements through osmosis (since water passively diffuses into regions of higher solute concentration). This water creates turgor pressure in the sieve elements, which forces the sugars and fluids down the phloem tubes toward the sinks. At the sinks, the sugars are actively removed from the phloem and water follows osmotically, so that conditions of high water potential and low turgor pressure are created, driving the pressure flow process.
+
+A hormone is a chemical that affects the ways in which an organism functions; it is produced in one part of the plant (or animal) body but affects many other parts of the body as well. Hormones work by coming in contact with target cells, causing the organism to respond in various ways to the chemical signal. In plants, hormones usually work by influencing cell differentiation, elongation, and division. They also affect the timing of reproduction and germination. These hormones are divided int o five categories: auxins, cytokinins, gibberellins, inhibitors (or abscisic acid), and ethylene.
+
+Auxins
+
+The primary function of the auxin hormones is to elongate plant cells in the stem. For instance, auxins are the hormones responsible for phototropism, the growth of a plant toward the light. Phototropism results from the rapid elongation of cells on the dark side of the plant, which causes the plant to bend in the opposite direction. The acid growth hypothesis explains this occurrence by speculating that auxins trigger proton pumps in cell membranes, lowering the pH in the cell wall to such an extent that the hydrogen bonds holding its cellulose fibers together break apart. These broken bonds give the cell wall greater flex ibility and expandability, so that more water can enter the cell by diffusion, causing the cell itself to elongate.
+
+Auxins are also responsible for adventitious root development, secondary growth in the vascular cambium, inhibition of lateral branching, and fruit development. In fact, seedless fruits can be artificially created by applying synthetic auxin to plants; this causes fruit to develop even though fertilization (and thus seed formation) has not occurred.
+
+Cytokinins
+
+The cytokinin hormones promote cell division and tissue growth, and depend upon the presence of auxins to determine the extent of their activity. When the ratio of cytokinins to auxins is relatively high, stem and leaf growth is stimulated. When, on the other hand, the ratio of cytokinins to auxins is relatively low, root growth is stimulated instead. The balance between these hormones ensures that the plant invests in both root and shoot growth, so that neither becomes too large or small for the other. Cytokinins are also involved in the development of chloroplasts, fruits, and flowers. In addition, they have been show n to delay senescence (aging), especially in leaves, which is one reason that florists use cytokinins on freshly cut flowers.
+
+Gibberellins
+
+Gibberellins stimulate growth, especially elongation of the stem, and can also end the dormancy period of seeds and buds by encouraging germination. Additionally, gibberellins play a role in root growth and differentiation, and produce an enzyme that pro motes the conversion of an embryo's starchy food supply into utilizable sugars. In some plants, these hormones are essential for flowering and fruit development.
+
+Inhibitors
+
+True to their name, inhibitors restrain growth and maintain the period of dormancy in seeds and buds. The most important of this type of hormone is abscisic acid, which in addition to restraining growth, causes the guard cells, of the stomata to close when the plant is losing too much water.
+

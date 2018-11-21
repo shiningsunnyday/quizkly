@@ -1,0 +1,19 @@
+{
+  "name": "static",
+  "version": "0.0.0",
+  "authors": [
+    "girishbarca <girishbarca@hotmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer-ui-carousel": "~0.0.1",
+    "polymer": "~0.5.4"
+  }
+}

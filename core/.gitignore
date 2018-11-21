@@ -1,0 +1,17 @@
+**/*.pyc
+**/*.model
+**/*.pkl
+**/*.dll
+**/*.exe
+**/*.xml
+**/*.csv
+**/*.pdf
+**/*.wm
+**/*.lm
+**/*.log
+models/
+build/
+dist/
+wheelhouse/
+revup_core.egg-info/
+**/*.iml
