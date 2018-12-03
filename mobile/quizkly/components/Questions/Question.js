@@ -9,7 +9,7 @@ export default class Question extends React.Component {
       showTrueColor: props.showTrueColor
     };
     console.log(this.state.showTrueColor);
-    console.log("That's as I'm constructed!");
+    console.log("That's as I'm constructed.");
   }
 
   // componentWillReceiveProps(props) {
