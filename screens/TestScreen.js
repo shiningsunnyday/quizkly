@@ -14,6 +14,8 @@ export default class TestScreen extends React.Component {
     curItemIndex: 0,
     curItem: this.props.navigation.state.params.params.list[0],
     showTrueColor: false,
+    didFinish: false,
+    score: 100,
   }
 
   changeQuestion() {
@@ -28,26 +30,36 @@ export default class TestScreen extends React.Component {
     } else {
       this.setState({
         curItemIndex: 0,
+        didFinish: true,
       })
     }
   }
 
   render() {
 
-    return (
-        // <FlatList style={styles.flatList} data={params.list}
-        //   renderItem={({item, index, section}) =>
-        //     <View style={styles.questionView} key={index}>
-        //       <Text style={styles.questionText}>{item.question}</Text>
-        //     </View>}
-        // />
-        <View style={styles.container}>
+    if(!this.state.didFinish) {
+      return (
+          // <FlatList style={styles.flatList} data={params.list}
+          //   renderItem={({item, index, section}) =>
+          //     <View style={styles.questionView} key={index}>
+          //       <Text style={styles.questionText}>{item.question}</Text>
+          //     </View>}
+          // />
           <View style={styles.container}>
-            <Question item={this.state.curItem} showTrueColor={this.state.showTrueColor} />
+            <View style={styles.container}>
+              <Question item={this.state.curItem} showTrueColor={this.state.showTrueColor} />
+            </View>
+            <Button title="Next Question!" onPress={this.changeQuestion.bind(this)} style={styles.questionButton}/>
           </View>
-          <Button title="Next Question!" onPress={this.changeQuestion.bind(this)} style={styles.questionButton}/>
+      );
+    } else {
+      return (
+        <View style={styles.container}>
+          <Text style={styles.congrats}>Congrats, you finished!</Text>
+          <Text style={styles.score}>Your score was {this.state.score}</Text>
         </View>
-    );
+      );
+    }
   }
 }
 
@@ -55,6 +67,14 @@ const styles = StyleSheet.create({
   question: {
     backgroundColor: 'red',
     flex: 1,
+  },
+  congrats: {
+    flex: 1,
+    textAlign: 'center',
+  },
+  score: {
+    flex: 1,
+    textAlign: 'center',
   },
   questionButton: {
     flex: 1,
