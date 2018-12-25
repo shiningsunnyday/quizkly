@@ -24,6 +24,9 @@ export class QuestionList extends React.Component {
     // console.log("See if start test works");
     // console.log(this.props.startTest);
 
+    console.log("Compare with original");
+    console.log(this.props.list);
+
     return (
       <View>
         <Button style={styles.button} onPress={this.props.saveList} title="Save this list" />

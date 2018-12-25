@@ -1,6 +1,7 @@
 import React from 'react';
 import { ScrollView, FlatList, Text, StyleSheet, Button, View, SectionList } from 'react-native';
-import { Question } from '../components/Questions/Question';
+import Question from '../components/Questions/Question';
+import { QuestionList } from '../components/Questions/QuestionList';
 
 export default class TestScreen extends React.Component {
 
@@ -9,27 +10,29 @@ export default class TestScreen extends React.Component {
   };
 
   state = {
-    currentDocTitle: "",
-    currentDocText: "",
-    currentDocChoices: [],
+    params: this.props.navigation.state.params.params,
+    curItemIndex: 0,
+    curItem: this.props.navigation.state.params.params.list[0],
+    showTrueColor: false,
   }
 
   changeQuestion() {
 
-    for(var i = 0; i < params.list.length - 1; i++) {
-      let newQuestion = params.list[i+1];
+    if(this.state.curItemIndex < params.list.length - 1) {
+      let newQuestion = params.list[this.state.curItemIndex + 1];
       console.log(newQuestion.question, "is the next question in line!");
       this.setState({
-        currentDocTitle: newQuestion.question,
-        currentDocText: newQuestion.question,
+        curItem: newQuestion,
+        curItemIndex: this.state.curItemIndex + 1,
+      })
+    } else {
+      this.setState({
+        curItemIndex: 0,
       })
     }
   }
 
   render() {
-
-    console.log("What I Got!");
-    const params = this.props.navigation.state.params.params;
 
     return (
         // <FlatList style={styles.flatList} data={params.list}
@@ -39,13 +42,20 @@ export default class TestScreen extends React.Component {
         //     </View>}
         // />
         <View style={styles.container}>
-          <Button title="Next Question!" onPress={this.changeQuestion} style={styles.questionButton}/>
+          <View style={styles.container}>
+            <Question item={this.state.curItem} showTrueColor={this.state.showTrueColor} />
+          </View>
+          <Button title="Next Question!" onPress={this.changeQuestion.bind(this)} style={styles.questionButton}/>
         </View>
     );
   }
 }
 
 const styles = StyleSheet.create({
+  question: {
+    backgroundColor: 'red',
+    flex: 1,
+  },
   questionButton: {
     flex: 1,
     backgroundColor: 'yellow',
@@ -54,7 +64,6 @@ const styles = StyleSheet.create({
     flex: 1,
     flexDirection: 'column',
     justifyContent: 'center',
-    backgroundColor: 'red',
   },
   flatList: {
     flex: 1,

@@ -39,10 +39,8 @@ export default class Question extends React.Component {
 
   render() {
 
-
-
+    console.log("Render", this.props.item);
     if(this.props.showTrueColor) {
-
 
       return (
         <View style={styles.questionView}>
@@ -58,7 +56,7 @@ export default class Question extends React.Component {
         </View>
       );
     } else {
-
+      console.log("Hello!");
       return (
         <View style={styles.questionView}>
           <Text style={styles.question}>{this.props.item.question}</Text>
@@ -78,6 +76,7 @@ export default class Question extends React.Component {
 const styles = StyleSheet.create({
   questionView: {
     flexDirection: 'column',
+    flex: 1,
   },
   question: {
     textAlign: 'center',
