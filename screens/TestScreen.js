@@ -18,6 +18,15 @@ export default class TestScreen extends React.Component {
     score: 100,
   }
 
+  checkAnswer = () => {
+
+    console.log("Checking answer!", answer);
+    this.setState({
+      showTrueColor: true,
+    })
+
+  }
+
   changeQuestion() {
 
     if(this.state.curItemIndex < params.list.length - 1) {
@@ -26,6 +35,7 @@ export default class TestScreen extends React.Component {
       this.setState({
         curItem: newQuestion,
         curItemIndex: this.state.curItemIndex + 1,
+        showTrueColor: false,
       })
     } else {
       this.setState({
@@ -47,7 +57,7 @@ export default class TestScreen extends React.Component {
           // />
           <View style={styles.container}>
             <View style={styles.container}>
-              <Question item={this.state.curItem} showTrueColor={this.state.showTrueColor} />
+              <Question isTest={true} checkAnswer={this.checkAnswer.bind(this)} item={this.state.curItem} showTrueColor={this.state.showTrueColor} />
             </View>
             <Button title="Next Question!" onPress={this.changeQuestion.bind(this)} style={styles.questionButton}/>
           </View>

@@ -1,5 +1,5 @@
 import React from 'react';
-import { Text, View, FlatList, StyleSheet } from 'react-native';
+import { Text, View, FlatList, StyleSheet, TouchableOpacity } from 'react-native';
 
 export default class Question extends React.Component {
 
@@ -9,6 +9,7 @@ export default class Question extends React.Component {
       showTrueColor: props.showTrueColor
     };
   }
+
 
   // componentWillReceiveProps(props) {
   //
@@ -64,7 +65,9 @@ export default class Question extends React.Component {
             style={styles.list}
             data={this.props.item.choices}
             renderItem={({item}) =>
-              <Text style={[styles.answer, {backgroundColor: 'yellow'}]}>{item.text}</Text>
+              <TouchableOpacity onPress={this.props.checkAnswer}>
+                <Text style={[styles.answer, {backgroundColor: 'yellow'}]}>{item.text}</Text>
+              </TouchableOpacity>
             }
           />
         </View>
