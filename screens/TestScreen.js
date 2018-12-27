@@ -20,7 +20,6 @@ export default class TestScreen extends React.Component {
 
   checkAnswer = () => {
 
-    console.log("Checking answer!", answer);
     this.setState({
       showTrueColor: true,
     })

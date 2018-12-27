@@ -83,12 +83,12 @@ const styles = StyleSheet.create({
   },
   question: {
     textAlign: 'center',
-    fontSize: 20,
+    fontSize: 25,
     flex: 1,
   },
   answer: {
     textAlign: 'center',
-    fontSize: 15,
+    fontSize: 25,
     margin: 10,
     backgroundColor: 'red',
   },

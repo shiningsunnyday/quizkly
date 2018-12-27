@@ -80,9 +80,9 @@ export default class HomeScreen extends React.Component {
 
 const styles = StyleSheet.create({
   titleText: {
-    marginTop: 10,
+    marginTop: 50,
     marginBottom: 10,
-    fontSize: 20,
+    fontSize: 40,
     textAlign: 'center',
   },
   documentsButton: {
@@ -105,14 +105,12 @@ const styles = StyleSheet.create({
     fontSize: 50,
   },
   contentContainer: {
-    paddingTop: 20,
     flex: 1,
     paddingBottom: 20,
   },
   welcomeContainer: {
     backgroundColor: 'gray',
     alignItems: 'center',
-    marginTop: 10,
     marginBottom: 20,
   },
   welcomeImage: {
